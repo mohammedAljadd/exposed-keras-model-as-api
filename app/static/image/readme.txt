@@ -1,0 +1,1 @@
+Here the python script will save the image for processing.
