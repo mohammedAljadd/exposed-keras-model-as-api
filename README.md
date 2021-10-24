@@ -3,6 +3,9 @@
 We will create a deep learning model and expose it as an API that will return the output as an audio.
 The model that I used will detect the image wheather it is me or a calculator.
 
+# My project architecture
+
+![alt text](https://github.com/mohammedAljadd/keras-model-as-api/blob/main/archi.jpg)
 
 Just follow the steps:
 	
