@@ -20,3 +20,4 @@ Just follow the steps:
 	6 - Send your image to /prediction using Postman
 
 
+You will find also the python script for the client to send http requests without using Postman.
